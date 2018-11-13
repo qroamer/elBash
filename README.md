@@ -3,7 +3,7 @@ This is a basic overview of my software installations and customizations of elem
 
 ## Packages to be installed
 This script will install the following packages:
-* elementary-tweaks
+* elementary-tweaks (for Dark-style windows)
 * htop
 * chromium-browser
 * atom
