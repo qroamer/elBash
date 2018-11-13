@@ -1,5 +1,5 @@
 # Customizing Elementary OS
-This is going to be a basic overview of my software installations and customizations of elementary OS 0.4.1 Loki x86_64.
+This is a basic overview of my software installations and customizations of elementary OS 0.4.1 Loki x86_64.
 
 ## Packages to be installed
 This script will install the following packages:
@@ -30,3 +30,7 @@ Once you have cloned from the git repository, you will need to run the following
 ```
 cd elBash && sudo ./Custom1.sh
 ```
+### Atom packages I install
+* [sublime-style-column-selection](https://atom.io/packages/Sublime-Style-Column-Selection)
+* [git-plus](https://atom.io/packages/git-plus)
+* [github-plus](https://atom.io/packages/github-plus)
