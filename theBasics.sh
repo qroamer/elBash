@@ -9,10 +9,11 @@ if [[ $(id -u) -ne 0 ]] ;
   exit 1
 else
   # INSTALL THAT SHiT
-  apt-get install -y software-properties-common
+  sudo apt-get install -y software-properties-common
   # This installs the necessary
-  add-apt-repository -y ppa:webupd8team/atom ppa:dawidd0811/neofetch
-  apt-get update
-  apt-get install -y htop chromium-browser atom neofetch
+  sudo add-apt-repository -y ppa:webupd8team/atom
+  sudo add-apt-repository -y ppa:dawidd0811/neofetch
+  sudo apt-get update
+  sudo apt-get install -y htop chromium-browser atom neofetch
 fi
 neofetch
