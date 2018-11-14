@@ -9,7 +9,7 @@ if [[ $(id -u) -ne 0 ]] ;
   exit 1
 else
   # INSTALL THAT SHiT
-  apt-get install software-properties-common
+  apt-get install -y software-properties-common
   # This installs the necessary
   add-apt-repository -y ppa:philip.scott/elementary-tweaks
   add-apt-repository -y ppa:webupd8team/atom
