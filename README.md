@@ -29,20 +29,23 @@ Once you have cloned from the git repository, you will need to run the following
 ```
 cd elBash && sudo ./theBasics.sh
 ```
-This will install the packages listed in the "packages to be installed" paragraph. very basic stuff like chromium, htop (because top SUX), etc.
+This will install the packages listed in the "packages to be installed" paragraph above. Very basic stuff like chromium, htop (because top SUX), etc.
 
 ### The Works
-The file "theWorks.sh" is a bit more intense. I created this file for the god-forbidden instance that I needed to start over. There are very few things in life that are worse than having a system crap out on you, and not being able to remember all the little tweaks you'd installed. This file installs the packages from "The Basics", as well as the following packages:
+The file "theWorks.sh" is a bit more intense. I created this file for the instance that I needed to start over. There are very few things in life that are worse than having a system crap out on you, and not being able to remember all the little tweaks you'd installed. This file installs the packages from "The Basics", as well as the following packages:
 * npm
 * node-gyp
 * elementary-tweaks
 * Steam
+
 The works also installs the below Atom packages, using the `apm install` command
+
 * [sublime-style-column-selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 * [git-plus](https://atom.io/packages/git-plus)
 * [github-plus](https://atom.io/packages/github-plus)
 * [terminal-plus](https://atom.io/packages/terminal-plus)
-It also gets rid of the FREAKING MRU BEHAVIOR and adds my custom keybinds to Atom.
+
+It also gets rid of the FREAKING MRU BEHAVIOR in atom and adds my custom keybinds to Atom.
 
 ### Future Plans
 I may include installers for Python3, as well as the PyCharm editor. It is a bit resource-intensive, so I don't know if I will include that in the end.
