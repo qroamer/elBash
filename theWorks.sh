@@ -13,7 +13,7 @@ else
   # This installs the necessary
   add-apt-repository -y ppa:philip.scott/elementary-tweaks ppa:webupd8team/atom ppa:dawidd0811/neofetch
   apt-get update
-  apt-get install -y elementary-tweaks htop chromium-browser atom neofetch npm
+  apt-get install -y elementary-tweaks htop chromium-browser atom neofetch npm steam
   npm install -g node-gyp
 fi
 neofetch
