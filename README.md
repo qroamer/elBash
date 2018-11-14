@@ -8,6 +8,7 @@ This script will install the following packages:
 * chromium-browser
 * atom
 * neofetch
+* npm (For use with terminal-plus extension)
 
 ## Getting Started
 First things first, I installed ElementaryOS from [these](https://elementary.io/docs/installation#installation) instructions. Very simple and easy-to-follow.
@@ -34,3 +35,4 @@ cd elBash && sudo ./Custom1.sh
 * [sublime-style-column-selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 * [git-plus](https://atom.io/packages/git-plus)
 * [github-plus](https://atom.io/packages/github-plus)
+* [terminal-plus](https://atom.io/packages/terminal-plus)
