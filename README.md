@@ -49,3 +49,4 @@ It also gets rid of the FREAKING MRU BEHAVIOR in atom and adds my custom keybind
 
 ### Future Plans
 I may include installers for Python3, as well as the PyCharm editor. It is a bit resource-intensive, so I don't know if I will include that in the end.
+Once I get the system stabilized, I'll just pull all of my personally-installed packages and have that list updated, as well as pull the list of personally-installed Atom packages into a text file for more efficient pulling-of-files.
