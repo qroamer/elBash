@@ -9,6 +9,9 @@ if [[ $(id -u) -ne 0 ]] ;
   exit 1
 else
 sudo ./repoList.sh
+
+sleep 15
+
 sudo apt-get install -y htop chromium-browser atom neofetch
 fi
 neofetch

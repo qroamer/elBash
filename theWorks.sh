@@ -8,6 +8,8 @@ else
 
 sudo ./repoList.sh
 
+sleep 15
+
 sudo apt-get install -y elementary-tweaks htop chromium-browser atom neofetch npm steam
 
 sudo npm install -g node-gyp
