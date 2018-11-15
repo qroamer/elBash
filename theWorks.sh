@@ -16,6 +16,10 @@ else
   sudo add-apt-repository -y ppa:dawidd0811/neofetch
   sudo apt-get update
   sudo apt-get install -y elementary-tweaks htop chromium-browser atom neofetch npm steam
-  npm install -g node-gyp
+  sudo npm install -g node-gyp
+  apm install git-plus
+  apm install github-plus
+  apm install termination
+  apm install sublime-style-column-selection
 fi
 neofetch

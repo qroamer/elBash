@@ -43,7 +43,7 @@ The works also installs the below Atom packages, using the `apm install` command
 * [sublime-style-column-selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 * [git-plus](https://atom.io/packages/git-plus)
 * [github-plus](https://atom.io/packages/github-plus)
-* [terminal-plus](https://atom.io/packages/terminal-plus)
+* [termination](https://atom.io/packages/termination)
 
 It also gets rid of the FREAKING MRU BEHAVIOR in atom and adds my custom keybinds to Atom.
 
